@@ -17,14 +17,6 @@
   <strong style="margin-right: 20px;"></strong>
 </p>
 
-
-## 📂 Featured Projects
-
-- 🏧 [ATM-simulator](https://github.com/brandoarth/ATM-simulator): Small ATM system using C#
-- 🎰 [Slot-Machine](https://github.com/brandoarth/Slot-Machine): A simulation of a slot machine
-- 💱 [Currency-Converter](https://github.com/brandoarth/Currency-Converter): Currency converter app with API integration
-- 🌐 [FATEC Web Site Clone](https://github.com/brandoarth/FATEC-Web-Site-Clone): HTML/CSS/Bootstrap-based replica
-
 ## 📈 GitHub Stats
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandoarth&show_icons=true&theme=radical)
