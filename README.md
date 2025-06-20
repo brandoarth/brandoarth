@@ -8,16 +8,13 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <strong style="margin-right: 20px;">C#</strong>
+  <strong style="margin-right: 20px;"></strong>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <strong style="margin-right: 20px;">HTML5</strong>
+  <strong style="margin-right: 20px;"></strong>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <strong style="margin-right: 20px;">CSS3</strong>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <strong>Git</strong>
+  <strong style="margin-right: 20px;"></strong>
 </p>
 
 
