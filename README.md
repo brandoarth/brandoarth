@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="CSS3" />
   <strong style="margin-right: 20px;"></strong>
 
-  <img src="URL_DO_SVG" height="40" alt="C" />
+  <img src="URL_DO_PNG" height="40" alt="C" />
   <strong style="margin-right: 20px;"></strong>
 </p>
 
