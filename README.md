@@ -4,7 +4,7 @@
 💻 Passionate about learning and building software solutions  
 🚀 Always exploring new technologies and coding projects
 
-## 🧠 Technologies I work with
+## 🧠 Technologies I work with or I study.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
@@ -20,6 +20,9 @@
   <strong style="margin-right: 20px;"></strong>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="CSS3" />
+  <strong style="margin-right: 20px;"></strong>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/c-original.svg" height="40" alt="CSS3" />
   <strong style="margin-right: 20px;"></strong>
 
 </p>
