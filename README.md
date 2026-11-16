@@ -27,12 +27,6 @@
 
 </p>
 
-## 📈 GitHub Stats
-
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandoarth&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Redes Sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
